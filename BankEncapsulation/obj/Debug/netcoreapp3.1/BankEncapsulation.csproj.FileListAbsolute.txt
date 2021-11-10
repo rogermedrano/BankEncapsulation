@@ -1,0 +1,14 @@
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.exe
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.deps.json
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.dll
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.dll
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.genruntimeconfig.cache
